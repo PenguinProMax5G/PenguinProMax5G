@@ -2,6 +2,6 @@
 - `SpivyNoodles 🍜`
 - `Creator of KDE (Kivy Development Environment) 🚀`
 - `Pythonista 🐍`
-- `Currently learning Kivy/KivyMD`
+- `Currently learning Flutter`
 - `Musician 🎹`
 - **`Bold is Gold 🪙`**
